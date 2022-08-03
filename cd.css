@@ -1,36 +1,31 @@
 h1 {
-    color: white;
-    text-align: center;
+  color: white;
+  text-align: center;
 }
 
 body {
-    background-color: black;
+  background-color: black;
 }
 
 h2 {
-    color: white;
-    text-align: right;
+  color: white;
+  text-align: right;
 }
 
 h3 {
-    color: white;
-    text-align: right;
+  color: white;
+  text-align: right;
 }
 
 p {
-
-
-
-    color: white;
-    text-align: right;
+  color: white;
+  text-align: right;
 }
 
-label=sold out {
-    border {
-        border-color: grey;
-    }
+p[label="sold out"] {
+  border: 3px solid grey;
 }
 
 .boxed {
-    border: 3px solid whitesmoke;
+  border: 3px solid whitesmoke;
 }
