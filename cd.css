@@ -1,0 +1,36 @@
+h1 {
+    color: white;
+    text-align: center;
+}
+
+body {
+    background-color: black;
+}
+
+h2 {
+    color: white;
+    text-align: right;
+}
+
+h3 {
+    color: white;
+    text-align: right;
+}
+
+p {
+
+
+
+    color: white;
+    text-align: right;
+}
+
+label=sold out {
+    border {
+        border-color: grey;
+    }
+}
+
+.boxed {
+    border: 3px solid whitesmoke;
+}
